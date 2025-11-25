@@ -65,6 +65,8 @@ Both models are converted to **ONNX** format for production inference.
 - Python 3.10+
 
 ---
+## Live Demo
+https://music-genre-identification-model.vercel.app/
 
 ## 💻 How to Run Locally
 
