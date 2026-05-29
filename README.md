@@ -65,7 +65,7 @@ Both models are converted to **ONNX** format for production inference.
 - Python 3.10+
 
 ---
-🔗 **Live Demo:** [medical-image-classifier.streamlit.app](https://medical-image-classifier.streamlit.app)
+🔗 **Live Demo:** [music-genre-classification-demo]((https://music-genre-identification-model.vercel.app/))
 
 ## 💻 How to Run Locally
 
